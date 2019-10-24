@@ -9,7 +9,7 @@ The Sens'it SDK makes it possible for you to change the behavior of the device t
 
 ### Download the SDK
 
-Go to [Sigfox Build](https://build.sigfox.com/sensit-for-developers#sensit-sdk) to download the full Sens'it SDK.  
+Go to [Sigfox Build](https://build.sigfox.com/sensit-for-developers#reprogram-the-sensit-firmware-with-the-sdk) to download the full Sens'it SDK. The download link as at the bottom of the section.
 **Note:** The GitHub repository does not contain the SDK library (required to build your firmware) & binary files.
 
 ### Software Installation
